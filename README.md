@@ -181,21 +181,6 @@ Stage 4 & 5: Unsupervised Phenotypes & Surrogates
   - Selected K-Means Archetypes    : 4 distinct clusters (CHD risk: 6.5% to 51.2%)
   - Decision Tree Fidelity         : 83.3% reconstruction accuracy
 ================================================================================
-```
-
----
-
-## Repository Structure
-
-```bash
-├── README.md                                    # Comprehensive project documentation
-├── Heart_Health_Risk_Analysis.ipynb             # Jupyter Notebook with full analysis & code
-├── presentation/
-│   ├── heart_health_risk_presentation.html      # 9-Slide deck HTML artifact
-│   └── presentation_script.md                   # Slide-by-slide executive presentation script
-└── requirements.txt                             # Python dependencies
-```
-
 ---
 
 ## Installation & Getting Started

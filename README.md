@@ -1,7 +1,6 @@
 # Heart Health Risk Analysis: Supervised Modeling, Decision Calibration & Patient Phenotyping
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Library-Pandas-150458.svg)](https://pandas.pydata.org/)
 
@@ -230,9 +229,3 @@ Every experimental step incorporates deterministic pseudorandom seed pinning (`R
 - Consistent stratified train-test splits ($80/20$)
 - Reproducible K-Means centroid initializations (`n_init=10`, `random_state=42`)
 - Deterministic decision-tree surrogate partitioning
-
----
-
-## License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
